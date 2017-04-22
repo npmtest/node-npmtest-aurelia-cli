@@ -1,4 +1,7 @@
-# test coverage for  [aurelia-cli (v0.28.0)](http://aurelia.io)  [![npm package](https://img.shields.io/npm/v/npmtest-aurelia-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-aurelia-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-aurelia-cli.svg)](https://travis-ci.org/npmtest/node-npmtest-aurelia-cli)
+# npmtest-aurelia-cli
+
+#### basic test coverage for  [aurelia-cli (v0.28.0)](http://aurelia.io)  [![npm package](https://img.shields.io/npm/v/npmtest-aurelia-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-aurelia-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-aurelia-cli.svg)](https://travis-ci.org/npmtest/node-npmtest-aurelia-cli)
+
 #### The command line tooling for Aurelia.
 
 [![NPM](https://nodei.co/npm/aurelia-cli.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/aurelia-cli)
